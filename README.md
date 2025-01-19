@@ -1,0 +1,1 @@
+# Just.Uno.Five.DotnetEigth.BlankProject
