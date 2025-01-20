@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Just.Uno.Five.DotnetEight.BlankProject",
+  "display": "standalone",
+  "name": "Just.Uno.Five.DotnetEight.BlankProject",
+  "short_name": "Just.Uno.Five.DotnetEight.BlankProject",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
